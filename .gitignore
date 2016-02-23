@@ -1,3 +1,13 @@
+# Doc publishing content from BM
+*.pyc
+.cache/
+.tox/
+__pycache__/
+MANIFEST
+.coverage
+_build/
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
