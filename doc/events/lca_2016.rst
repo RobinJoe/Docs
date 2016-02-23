@@ -1,0 +1,1062 @@
+
+History of Tech Writing
+=======================
+
+Ada Lovelace was the only academic able to converse with Babbage on
+the properties of the difference engine. The first telegraph machine -
+Morse, the creator of the morse code, researched
+telegraphy. Expensive, long distance circuites require networks.
+Morse’s code required one wire.
+
+Isaac Asmove “Samuel Morese was a religious bigot and a racist” high
+levels of historical racism.
+
+Cyrus Westfield conceived of the Submare telegraph. Back in 1851, the
+Bright brothers had permission to study telegraphy, running a 47 mile
+cable across the England/French Channel.
+
+An English surgeon named Wildman Whitehouse intercted with Thompson,
+working on current down the copper wires, batteries ferrying large
+scale voltage. 10:15am Aug 16, 1858, 04:00am Aug 17, 1858. Sep 3rd,
+the wire fails. Then American civil ware in 1861. People claimed it
+was a hoax. Newsmedia claimed it was to sell stock in a company. A
+share buying and selling scam. in 1865, there was a second cable.
+Brunell. The cable fell into the Atlantic ocean while the ship
+attempted to lay the cable.
+
+This is a brief survey of 18th centre trans Atlantic Submarian
+telegraphy. It generated an enormous amount of technical documentation.
+
+1958 “It has been said that in this age the man of science … yet
+has no ways to say it… disregard the help of correct literary
+expression”.
+
+Binac documentation manual.
+
+Donal Kanuth Author of the Art of Computer programming.
+
+1976 - The Palo Alto research centre at Xerox Park. This is where the
+Alto - a compute similar to the modern desktop - a manual for how to
+use the Alto composed in the mid 1970’s. This is an interesting
+crossover of written information architecture, and physical
+architecture of the building.
+
+1982 - Andy Hurtzvelt “revolution in the valley” . Apple from 1978 to
+1985-86. “By april 1982 - UI implementation - was ready. Developer
+docs were needed here. Understanding the underlying concepts that
+allow this process to function. Examining the concepts of the
+window api”.
+Caroline Rose. She didn’t mid admitting it until she did not
+understand, and figure out the answers to her questions. If
+Caroline had questions, it usually meant the design was flawed.”
+Collect it into  “Inside Macintosh”.
+
+Questions
+
+What is the “binary word capacity” in the historical Binac ?
+What does the converter in the Binac do?
+
+Home and Away! (Best Title )
+----------------------------
+
+How to avoid explosive introversion? How to speak to developers?
+
+* the Beer solution.
+* Staying up late to speak to developers
+
+Face to face > Telephone > email > IRC
+
+Wake at the same time. Office clothes. Arrive at the same time.
+
+“It’s important for your job that you be who you are, and communicate”
+“You don’t get to talk to your colleagues, but you need to be your best
+human self so you can be the most effective communicator you can be”
+
+What are the ways that outside forces can impose a routine to keep
+timing going?
+Shared Calendars with a team - highlight the free time and
+lunch hours etc.
+
+
+Talking to Engineers
+--------------------
+
+Translating from Engineers to documentation, to users and customers.
+Past career as  a journalist - insight into telling new readers how
+something works. Engineers and writers communicate in different ways.
+
+Ask simple and short questions - specific things.
+Ask questions one at a time
+Write up a proposal that can be approved or knocked back
+Do research and use the product before asking for help - Figure out
+what what the users will want to do and experience.
+?What was step six?
+Give a deadline - deadlines based on nothing can be helpful.
+“synthetic deadlines” Calendars can help
+“No shame for not knowing a technical question”
+“It is also okay to push for a more informative answer”
+“Explain the problem to a rubber duck” this method is used for
+breaking down a procedure into a steps.
+
+Docs Unconference
+-----------------
+
+Procedures.
+
+Error handling process. End users dislike flowcharts.
+Error Handling maligned?
+
+OpenSource.com Many open source websites don’t have
+strong documentation.
+
+Documentation column. Not on a schedule. Always
+looking for content on best practices for writing
+documentation, workflows, and other best practices.
+
+Rikki@opensource.com
+
+Let’s talk about debt
+---------------------
+
+Documentation program manager.
+
+The future costs incurred by not taking time to plan out
+and do things correctly.
+
+Usually, docs requests constitute Feature Requests, Bugs, and
+Enhancements. A sign of technical debt is an issue with technical
+debt adding up. The two key tasks needed to plan, and help avoid this
+problem is to establish requirements, Establish time frames.
+
+Vague requirements result in vague docs.
+
+Wording, style, grammatical accuracy. “If you don’t understand it,
+readers might not either.”
+
+People will find the flaws in the argument. Communicate the
+technical concepts and procedures in a way that readers can understand.
+
+Convention Planning
+-------------------
+
+User Guides have the minimum users need to orient themselves
+without any extraneous items to exhaust the reader.
+You need your documentation to be as dumb as possible. Make
+it as a plain as possible. If you can cut filler words, take them out.
+
+Wiki’s risk mixing out of date information with up to date content.
+Please implement a sensible taxonomy.
+
+DAY 2
+
+Open Data:  A better way
+========================
+
+The open bin map recruits open data about bin collection, and
+waste management.
+Open trees.org organises and presents council tree cleaning data
+and meta data for trees:
+Tree species spread, size, date catalogued. An entire open database
+sorted by map, with a dialogue box describing the meta data of
+each species.
+
+Drainage pipe, dog maps for walking in Geelong, restrictions and
+changes in corporate. Parking and restrictions for the council spaces.
+
+Opencouncildata.org
+@stevebennet1
+
+Open Learning Initiatives
+-------------------------
+
+Open Learning removes as many barriers to entry as possible. So, how do
+we make it accessible to more learners? The OpenTechSchool.
+
+“Teach programming of all kinds in a non-judgemental environment to
+audiences of all kinds”
+
+A learning environment caters for any question is welcome, and a
+1:1 question addressed for a face to face manner. Provide tools for
+people to set up their own workshops. Translation into lots of
+different languages: English German Korean Russian Romanian.
+
+1 barrier for entry is providing laptops for attendees who cannot
+provide their own. Indigenous groups if possible. Place events on
+their radar. Auslan is another plan.
+
+“Tell people what your endeavours are otherwise they are never
+going to know”
+
+lilly@attacus.net
+
+Open Learning and Hackathons in Game Development
+------------------------------------------------
+
+Hackathons:
+
+ *Encourage “work until you can’t” ethic
+ *Product like outcome
+ *No follow up
+
+Game James are about making something cool. Game devs are shallow.
+Impressive and flashing. Competition thrives in this environment.
+
+“Games don’t need users or customers to be a viable thing. They
+stand on their own”
+Why Game Jams are an interesting, and a spirited Open
+Collaboration #lca16
+
+Games can convey understanding - Hand wavy, but examples:
+People take away information faster than a diagram web app.
+They engage, more quickly than static data.
+
+“Marvellous Ultimate Appliance” - uses open data from average
+household income
+“Question Time” uses open data on government Hansard logs -
+semantically broken up into pieces on what was said, voted on,
+and when, and by whom. Voice shorthand runs on Linux. It
+captures this data using vocal keyword recognition.
+
+You can find similarities between games, data sets, and
+open education. But:
+Don’t try and model real world appliances.
+Taking liberties to make users understand.
+
+Audiences:
+Judges and Audiences,
+
+Warning: Don’t try playing over the internet, Don’t get
+clever. Ignore bandwidth, trust the client, ignore long
+term balance and replays. Recruit an audio engineer.
+Some advice for Jams and general. Time is your enemy -
+When an event has a time limit, consider the deadline
+oriented issue. All-nighters lie to you. “You will never
+do your best work, if you work at all, on an all nighter”.
+
+Preserving meaning in games.
+
+Using external pressure to constrain yourself. Most people
+think of games as big things. Smaller scale, like in
+comics, can help newbies improve steadily.
+
+@thesecretlab
+@desplesda
+@parisba
+
+Producing and sharing open data
+-------------------------------
+
+Using personas of different users, and recognising
+different users knowledge gaps.
+
+Prying open government freedom of information
+---------------------------------------------
+
+Dan Hawke - Freedom of information. Available throughout the world.
+You can use it to request documents from the government. There is an
+ombudsman who can review and reject the application.
+In Australia, any persona can make a request. NZ law only allows
+physical presence, citizen, or incorporated organisation.
+
+Specific information - and a specific time period for the information.
+
+The NZ transportation branch of the government Replied exactly on the
+20 day response deadline. They replied with specific answers for the
+question because Dan’s questions were strongly phrased. with clear wording.
+The news media regularly asks for Student Load debt, beneficiaries,
+and other government information to report on. You can use Alaveteli,
+an open source application, to contact the organisations
+
+Open Systems Specialist is Dan’s employer. oss.co.nz.
+
+The Internet Archive now with API
+---------------------------------
+
+Archive.org 3.4million people vista. 4million streams per day.
+They do not store IP addresses. Logs fake visitors.
+“Privacy is important to us, not because we are  library,
+because it is the right thing to do” on not logging IP addresses.
+
+the swayback machine is updated within hours. Most well know captures.
+This go back to 1996. alexis.archive.org.
+
+What dictates swayback and archiving? Paid by organisations.
+They deep crawl popular sites.
+
+Every retweeted youtube link receives a crawl, and store from
+web archive. Everypage on every wordpress.org, and every link
+embedded in the page is crawled and archived. The primary goal is
+to reduce 404 reactions on the web.
+
+You can also back up the website yourself. They also scan books.
+They have 30 scanning centres in 8 countries so far.
+They process 1000 books a day.
+
+“We’ve been doing containerisation longer than docker” Literally.
+Physical archive of books. Open Library.org.
+
+They have 2 million items of video’s stored on the library archive.
+Ephemeral items. TV is a citable resources. Extreamly useful for
+referencing in papers and journalism
+
+Also, a software archive. All open software available.
+
+How to use the Wayback API interface
+
+url= <just url. does not need https encoding or otherwise>
+timestamp= in yymmddhhmmss format
+callback=
+
+404 handler.
+
+Open Library API. The few services they have that is well documented.
+
+Do-We-Want-IT? API for testing if they need a book for not for their
+archive.
+
+The IA search is a more ind depth search. The IA Search API
+
+This is a Lucene-based search.
+
+The Internet Archive S3 Light API. Translations needed. This does
+just about everything in Internet archive. “Universal access to
+public office” This is the archive goal and ethos.
+
+is-wrapper has utilities for the three API items.
+
+@vmbasseur
+zotero.org/internet_archive_-open
+http://archive.org/donate/
+
+Catarina Mota - Keynote #2
+--------------------------
+
+Everything astonishing was that Xerox park had created and
+built different items from repurposed appliances. ITP. The
+school “Most of us are not geniuses. Most of us were just normal people
+who landed in an environment of rapid, experimental creativity”
+
+The first question is “what is changing” - collecting a pattern of
+unrelated phenomena “ The emergence of what can be described as DIY
+hardware
+“ Raspberry Pi opens entry into electronics. “The serious and useful
+to the playful and whimsical”.
+
+RepRap printers. “Designed in such a way as it can make it’s
+own parts…about 50%”
+
+Are we passive participants? “Watching television became a
+part time job for every citizen in the developed world” Sharky.
+
+But Self determination theory. Competence and interesting
+built environments, interconnectedness, and independance.
+What allowed this theory to explain the events of the most
+recent Internet Rise, communities, and fabrication tools.
+
+Why should you care?
+
+  1. Machines are not neutral. “The shape of technology depends
+     on the context in which they are created” “ The shape of the
+     technology determines what can be done with it” So the needs
+     of the persona within their environment affects the choices
+     of what to build. What is feasible.
+
+  2. Distributed approach - users become co creators. Individual and
+     collective shaping.
+
+  3. It enables sharing and more collaboration to build better worlds.
+
+What incentive to manufacturers have to get on board with
+democratisation?
+Hardware is highly compatible with business. We need business
+models that are compatible with
+non-intellectual property. The idea that we do not meet manufacturers
+to stop, just shift into a different style. Entrepeneurs can show the
+way to being in an open ecosystem.
+
+
+Continuous delivery with Firefox
+--------------------------------
+
+Laura Thompson.
+
+They did not want to cause update issues. It has a check for
+whether the app can update, or the user is busy. Firefox add on
+updates. “We are moving toward a world where you can update one
+string at a time.” The whole update needs to get away from a string.
+“It’s amazing how angry people get about the shape of a tab” Strike a
+balance between fix things quickly, or support strong user experience.
+
+Firefox is developing telemetry requirements for shipping new features.
+
+/Firefox/Go_Faster Mozilla wiki page.
+
+Firefox ships Security policies, block lists of things that crash
+browsers. Dictionaries. etc. It takes 12 hours to ship a release.
+
+Parts of firefox: Balrog connects to Kinto. Kinto sends to data to
+Firefox … something about add ons …
+
+Better shipping for canaries, A/B changes, and data visualisation.
+A canary in a coal mine. Ship something to 1% of the users, and if
+it does not crash or cause  a bad experience, than the pool increases.
+
+Worst case scenario is Firefox crashes with no recourse to repair this.
+Most startup crashes are caused by back end issues.
+C++ code inside the back end.
+Tracking projections for the backend - an add on shipped with issues.
+More telemetry (What does that mean in this context?).
+Small releases mean isolated problems.
+Problem diagnosis is easier.
+Any add on that changes config without an ability
+to change back should be discouraged. Informal collaboration takes
+place between open source browsers.
+
+LTR and Right to left Language
+------------------------------
+
+Your eyes are drawn to the top left of the screen. This is why
+logos are in the top left. The script is about eye movements.
+What you expect from typing and content.
+
+Logical versus visual rendering
+
+Someone, a coder, had to write backwards. The Byte order, in a
+logical order arranged script by logical placement of characters <?>.
+
+http://ltr.wtf - An investigation of right to left languages.
+
+5 Hash function Enter, 1 leaves
+-------------------------------
+
+A has functions convert text into another type of encrypted text.
+These cryptographic hash functions
+make it as difficult as possible to generate collisions.
+Non-Cryptographic Hash functions - They are faster.
+Avalanche effects
+Primes
+FNV-1A Landaue in 1991 Fong.
+FNV-0 did not have random selection of has numbers.
+0110 0001 = lower case a in binary ascii
+
+CRC32. An old and common algorithm built into most computers.
+Basically a reconstructed way of a binary polynomial.
+
+MURMURHASH3 - Third iteration of this hash.
+A relatively simple of example of more modern hash functions.
+A lot of modern hash functions are going to work with Seeds.
+This operates on 32 bit words.
+Modern CPUs prefer to take words at a time, read ahead, and caching.
+What you can see in the example, is trailing bytes.
+There are loops, multiplications, and rotations.
+
+CITYHASH32 - More work per block that Murm etc.
+Works slower, unexpectedly, than the other functions.
+
+SUPERFASTHASH - A bid dodgy. It has no initial state.
+The mixing function operators on four byte chunks.
+The left and right shifts in the mixing parts are the same amount.
+Which might be an issue down the post processing path.
+
+JSHASH - Written in c89, not fun for 2016 writing.
+0.2% of execution time looking up keys in the has table because
+only 5% of buckets were used.
+We try to minimise overhead when writing a profile.
+
+Know that that HASH3 and are fast, but miss steps in the loop.
+This means know your environment.
+Know also your requirements. @LGnome.
+
+Swift Sharding
+--------------
+
+Container shard how swift works
+
+You can use curl API to communicate with Swift.
+
+Swift has an Account, a container, and multiple objects
+inside the container.
+Swift deals with accounts so well, treat accounts and containers
+as objects. These are SQLite databases.
+They are replicated. But their size is a a big deal.
+
+Rings identify data placement in a cluster.
+It is a mapping function.
+Rings have partitions and connect to exit nodes.
+
+What is Byte order? What are pivot points? Do the rings
+talk to the pivot points?
+Identify the best node to pivot on
+Objects are deleted and added all the time.
+This is what is meant by good enough. Keeping count and
+choosing the one that is the highest would be an efficient idea,
+but the nodes need to keep in contact with head other.
+
+
+Persistent Memory
+-----------------
+
+Matthew Wilcox.
+
+*What is Persistent Memory?*
+
+Retains data without power
+NV_DIMMs are available from multiple companies. These copy and hold
+memory in the event of power loss
+A boutique solution.
+
+.. list::
+
+-Persistent memory is created on boot with a script
+-Academics listed a number of ways to use the memory
+-Unconstrained by practical issues, like software in an environment
+-Total persistence vs. The memory is not cached.
+-Application persistent vs. Snapshotting an application - which source
+was flushed from cpu cache and which was retained?
+-Completely redesigned operating system - persistent memory becomes a
+political point where people push their software ideas
+-Small mods to existing system - Wilcox’s team created a solution to
+cache cost (?) errors.
+
+How do we use Persistent Memory?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The CPU cache is willing to create dirty lines, not finding any clean
+lines. The CLFlush takes a dirty cache line and removes it.
+CLFlush was originally implemented as a … CLMB transitions chache
+lines to a clean state. As software people, we need to
+know that the instruction made it. PCommit - persistent commit -
+tests that. If that returns, you know that there is a a system
+guarantee that everything before the p commit has been flushed out.
+So if there is a failure?
+
+NVML
+~~~~~
+Non volatile memory library. It can work on SSD
+
+.. list::
+
+- The NVML provides poem support libraries
+- It provides an array of atomic blocks, because some data structures
+  are exactly 97 or other block sizes large.
+- libvmem - uses persistent memory in a volatile way. The choice is an
+  easier path, or a slightly better performance.
+- lippmemlog - appends a log to an a memory P return.
+
+Transactional memory object store
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It supports C++. The safety is C based type safety done with macros.
+It is not transparent. The C++ support conforms to the idioms
+the programmers expect.
+
+NVML
+~~~~
+
+made from a RED-BLACK TREE, B-tree, and a Crit-bit,
+A hashmap, Key-Value Store, and P mem objfs.
+
+Demo
+-
+
+Played a space invaders game in the presentation. Because the
+laptop does note have persistent memory in it,
+it is using M-synch to back up the disk. With m-synch disabled,
+The RAM has less taxed ability. So with persistent memory instead,
+the software performance was faster, and backed up the high score.
+
+http://pnem.io/
+M5v94A-tZSc - youtube ID for video, 45 minutes in
+
+intel.com/nmv
+
+
+Anti-Harassment Methodologies
+-----------------------------
+
+*Some of the content contains violence and sexual assault*
+
+Targets of violence are often minority groups. Referencing Kick Ass
+by Mark Millar. Social Media presence. Similar to Speaker’s story.
+Gamer Gate. Professional gaming is a hostile place for women workers.
+A script written in pearl for blocking gamer gate posts and
+twitter accounts. Thousands of people signed up on the script.
+NY times editorial board. Brightbart are a
+“right wing sexist…tabloid”. Companies, friends, and family
+are targeted.
+Adam Baldwin used “Non compliant” in a serious question.
+Just like in Bitch Planet (DeKonnick, Valentine). This could happen
+to anybody.
+
+Meta data analysis online involves media reports over time, violent
+images retweeted, sophisticated bot usage. Emojii use. What about
+other community focused platforms? Moderation tools on reddit are
+non-existent. community segregation is needed for the future.
+Reddit: community score based on participation. Limit scores for
+harder, attention drawing topics. Monitoring for external links.
+Twitter - Mute conversation topics. Protected accounts with conversation
+. Filter notifications by meta-data - only talk to accounts older than
+two days, like Mario maker. Youtube. Positive comment scoring use.
+Commenting - Civil comments - Report something or abuse - needs
+ticket number. Typing - some severity.
+
+The Future will be awesome, and what you can do about it
+--------------------------------------------------------
+
+Paul Fenwick on future technology and emerging ethics.
+The future arrives much faster than we expect.
+It is much more calming for us as humans to say that
+this (the future) is never going to happen.
+“One weird trick I have learned to talk to people about the future”
+“Think forward to 1000 years in the future. Imagine there is a
+future where … is…” where future item can do this future service
+for future users.
+
+Machine ethics
+~~~~~~~~~~~~~~
+
+What does it mean to act in an ethical way? Would people buy a car that
+could self destruct by driving off cliffs to save an errant pedestrian?
+Here’s an ethical question - how many people would need to be
+nconvenienced before the pedestrian (Child) should not die?
+If you are going to inconvenience 8 million people, then the
+death is tolerable. The moment you insist that no one should ever die,
+you find that these future vehicles are too slow. Imagine a software bug,
+one each year, kills 2000 people. A concentration of liability despite
+the death rate only being a fraction of the 40 million annual traffic
+fatalities - 2% of road deaths. Legislative change -
+state funded insurance. Insurance changes. This might leans to company
+owning half a million autonomous vehicles.
+
+Trucks
+~~~~~~
+
+Most of the costs of truck driving long hauls offers an interesting
+change. Not Technological Unemployment, with robot’s driving in straight
+lines to things. Industrial revolution was the major historical instance
+of this. 1812 law - it is a capital offence to harm a robot, or through
+an action, cause a robot to come to harm. Actual law.
+1830 work week. 1988 - 40 hours. Work week stabilised at 40 hours.
+Leisure time is 122,400 leisure time in 1995. Innovation increases
+during leisure time. Drones are particularly useful for disaster relief.
+“Burrito Bomber” is a great idea. Lethal Autonomous robot LARs.
+Spot and kill without human involvement. It cannot be jammed.
+It is stationary. Zephyr solar powered drone. These drones can monitor
+pacific ocean weather patterns from the troposphere.
+Human Rights Watch has called for treaties on these kinds of robots.
+
+Machine Intelligence
+~~~~~~~~~~~~~~~~
+
+``Watson`` is the IBM machine that won jeopardy. Watson is
+learning the entirety of human medical knowledge.
+It is getting better than humans at diagnosis.
+*Recession* is the process where policies are revoked based on minimally
+related medical nondisclosure.
+
+tinyurl.com/pjf-lca2016
+
+github.com/pjf/future-is-awesome
+
+Documneting the Linux Kernal
+----------------------------
+
+In the most recent 4.4 dev cycle, 13.071 merged,
+Linus merged 20 of these. But what is the process like?
+And management is involved:
+
+.. list::
+
+   - Get others to do the work for you.
+   - Make sure that the problem statements are correct, the
+     solution is correct, the process is handled, and it is documented.
+   - Managing the trees that feed directly into the mainline repository.
+
+In the end, all maintainers push directly to Linus. Documentaton tree
+has many files, over 200,000 The two faces of the tree
+includes ordinary text files, and formatted .xml files. KernalDoc
+comments are all indicated by /** comments throughout the kernel
+doc source. These describe functions, structures, and unattached
+documentation. Is Documentation/SCSI part of the docs tree?
+
+“Documentation is a gigantic mess, currently organised based on
+where random passers by have dropped things”
+
+Kernel docs have no vision at the moment. Things are attached
+wherever they fit. There is no cross document links. It is
+considered an entry point in kernel development. An alternative
+for white space fixes. There are numerous output formats
+if you can use the tools effectively. The point is this is a
+documentation system built by kernel developers.
+
+A perl script moves across the kernel source docs three times,
+building the html output for the docs, and taking snippets from the docs
+to add to manual and —help templates. KernalDoc are missing formatting.
+the script is brittle and slow, and the results are
+not stylish.
+
+No style sheets.
+
+As of 4/2/16 The new markdown… . They want to drop docbook.
+Use a simple markdown for everything.
+Sphinx or ascii doc. Jani Nikula attempted to do the thing right.
+
+“By making it easier to work on and improve docs, we can head in
+that directions”
+
+“If there is good documentation, it is easier to bring in other
+developers to help [current] developers move forward.”
+
+
+A new editor - EDLIB
+--------------------
+
+Neil Brown
+
+LateX involved in this item. EDLIB. The idea is everything is pluggable.
+
+.. list::
+
+   - Multiple document back ends
+   - Has multiple language bindings
+   - Multiple, multi stage rendered
+   - Multiple display managers.
+   - Key event bindings can be configured.
+   - Loadable from libraries.
+   - Core provides essential abstractions
+
+Essential Abstractions
+~~~~~~~~~~~~~~~~~~~~~~
+
+Everything is based around a pane. A rectangle area that can work
+together and communicate with each other. Edlib works
+with Panes. These are grouped by parent and child. Tiles appear on
+top of the pane.  A document is a set of interfaces
+provided by a pane. A document can be access by bytes, characters,
+and lines. Multiple panes can access the one doc.
+A mark is a location in a  document. Marks are groupable, and can\
+be found with next or back commands.
+
+Commands
+~~~~~~~~
+
+Commands pass control between panes. The plugins for EDLIB
+include emacs like editing.
+
+github.com/neilbrown.edlib.
+
+
+Writing for Technical and Non-Technical Audiences
+-------------------------------------------------
+
+Rikki
+
+Know what why who and how. Know who your reader is. Be mindful of
+reuse because you’re going to want to write a hardest
+piece with more detail first, and then repurpose that content for
+different audiences. Resarch outline is needed. Then write and
+revise the content.
+
+.. list::
+   *Three categories of readers*
+   - Lay
+   - Manager -
+   - Experts - These are the most demanding audience.
+     Include the most details
+
+Tech journalists
+~~~~~~~~~~~~~~~~
+
+Often writing groups and communities don’t have writers and PR
+professionals. Readh care feeding press for communities
+and colleagues for writing press release. The best details for
+writing and contacting tech journalists.
+``net press.org/care-and-feeding-press``.
+
+RTFM
+~~~~~
+
+How to write a manual worth reading. Rich something wrote a
+really great article, and then there was a series of articles
+from this one source.
+
+Ready to write? Cool your jets
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Shifting gears to write in different genres. Reading component.
+Stephen King’s advice on writing fiction is useful across context.
+
+***Reading before your start writing***.  Be clear on the
+expectations of the writing tasks are.
+
+How to give a report on events is a common task. Leslie
+Hawthorn wrote ``how to write an excellent post event wrap up``.
+
+Ansible
+~~~~~~~
+
+Greg Dekoeningsberg is VP of communication at Ansible. HIs content was
+a good example of making use of information for multiple sources.
+Writing multiple reports to different audiences. Ansible reworked the
+content from a  dev mailing list into a blog post
+
+Invite the reader in
+~~~~~~~~~~~~~~~~~~~~
+
+Tell a Story
+~~~~~~~~~~~~
+
+When you rewrite, your job is to take everything out that is
+not part of the story. Add hyperlinks or a list at the end.
+
+Leave out the boring parts
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Kerri does not like word counts. “As long as it needs to be”.
+Unless pay is be word count, Word count is not a big deal.
+At any rate, if it gets too long, it can be broken down into
+multiple posts.
+
+Greg K left out developing modules from his dev mailing list message.
+Robin's post - the blog post - told more of a story into the
+explanation of the problem.
+
+Tech article tutorial or white paper includes a how-to step or
+technical information in the centre of the whitepaper or how to.
+It comes before the conclusion.
+
+An outline or plan is needed to propose an article. A sample outline.
+
+Facts
+~~~~~
+
+What the product is. When it was released. What platforms it runs on.
+What the configuration requirements are. How much,
+
+Edit
+~~~~
+
+Everyone should edit.
+
+#opensource.com free node channel. Find the people who don’t care about
+your attachment to the article.
+
+rikki@opensource.com
+
+Anthropology
+~~~~~~~~~~~~
+
+Genevieve Bell
+
+Native American Studies and Feminist Theory.
+Between 1880 and 1920 - Federo-ethno relationships.
+Intel Called her for 7 months. “There is a moral obligation to make the
+world better, and not sit on the sidelines”
+Un-reconstructed Marxist and a radical feminist.
+Be in the middle of the heady moment of building the infrastructure we
+now live in today. “In my notebook for the day I write down “Woman - All”
+R.O.W - Rest of World.
+A fascination with the future. Being interested in the future has a
+major history. Predicting the future manifested as supernatural
+superstition.
+A reoccupation that spans many cultures and 10s of thousands of years.
+1957 ad for American Asociation of Electricity companies.
+People hope convenience,This add reveals this line of thinking.
+Ideas of Food. Labour. Public vs Private. Deeply revealing about that
+moment in time.
+Every new technology is accompanied by a story about what world it
+will make.
+“That moment when people encounter data about themselves - Creepy”
+
+connectivity
+~~~~~~~~~~~~
+
+Devices, network, and human beings. We function better as human
+beings when we can have a moment when we are not switched on. We need time
+to feel different. Day night, weeks weekends are all flattened.
+This can feel the same over time.
+Humans have long standing social structures designed
+for us to experience time differently.
+One of the promises that her colleags comment on - “seamlessly connected”.
+“What are the judgements that will be made about me,
+and who is going to know about it” -
+City wide aggregated data revealed publicly.
+The average human being tells 60 to 200 lies a day.
+Appraching 200 is in the running for American President.
+“What are we also revealing when we don’t tell the truth?” Kevin Kelly,
+Stuart Brand “The internet would bring transparency.”
+Many social I’lls would be transformed.
+:Every algorithm embeds a set of assumption about how the world works”
+G. Bell. Algorithins of recommendation
+“If you did this, you will like this..”
+“What does it mean to live in a  world where our choices… are shaped by
+what people have already done.” A world where we choose to go in a
+different direction
+are increasingly difficult. Algorithims of surprise are much more
+difficult.
+
+Security
+~~~~~~~~
+
+IOT, network, algorithms can be hacked. Infrastructure is hacked.
+A hacker attacks hospital insulin and morphine drips. Not good.
+Fingerprint theft in a data - bolus stolen by a hacker.
+Government interest and securit and backdoors means for a blurry
+line of security. The metaphor for security is still a padlock.
+Bruce Sterling “The Epic Struggle for the Internet of Things”.
+A medical company purchased credit card data, and tracked a
+persons medicine purchases.
+Positive correlation between emergency rooms and flat pack IKEA
+furniture. You can use light and dark makeup such that it renders
+facial recognition software
+useless. “What if everything you ever did and said was available.
+If you could never escape the things you said, and was said to you?”
+Data as perennial information.
+
+Innovation
+~~~~~~~~
+
+Accompanied by vast utopia and distopia settings. We want new
+technology, and all that represents but we are deeply fearful
+of the consequences.
+What manners of inequities are produced, what are continued,
+what are disrupted? Moores law what is better is well known and
+clearly articulated.
+“You all have to get it right”.
+
+“Treated my first year at Intel like field work”
+“Talk about what we do so it makes sense to people beyond
+our discipline”
+
+
+Python’s Dark Corners
+---------------------
+
+Peter Lovett
+“There’s not many dark corners.” “There is an elephant in the corner”
+4 million hits to Python sucks google.
+
+Whitespace.
+Python errors in white space. Spaces and tab. Python -t
+“inconsistent uses of tabs” -tt shows where tabs are located.
+Tab nanny can prevent tabs working i
+
+Everything is an Object
+
+It’s just a name p1
+~~~~~~~~~~~~~~~~~~~
+
+Names and Objects. A is is not a list in a = [1. 2. 3.]. It is a
+reference. A pointer. “is” represents or embodies a useful
+operator. ``str`` turns **int** to a **string**.
+
+
+It’s just a name p2
+~~~~~~~~~~~~~~~~~~~
+
+“Don’t call variables the same as built in functions” The only
+problem with __builtin__ is that it is not preinstalled.
+in python 3, the names true and false are references in python 3.
+
+Accidental name creation
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Can I stop the rebinding of built in function names? No. Python
+loses some of the protection that more strict languages
+have.
+
+Scoping rules
+~~~~~~~~~~~~~
+
+The binding of a name locally inside a variable localises the name.
+If you don’t it refers to the global variable. If you do,
+then it binds locally.
+
+print i, i = 6, print i, i = 5, fn(), print i - prints an error.
+Unbound local error. Also do not use global.
+
+Surprising namespace rules
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Maths issues. The problem is IEEE .This set the standard of how base
+2 fractional numbers would implement.
+Not Python’s fault. Don’t use floating point. Solve everything in
+“in ce” Decimal class has tuneable number places and rounding
+techniques despite performance costs.
+n = 5
+++n = 5 because their is no “+”. + operator can add incremental
+amounts if needed.
+
+Syntaxt issues
+~~~~~~~~~~~~~~
+
+Don’t place items after the colon. Slicing is very good syntax to know.
+
+Consistency in name conventions is key
+
+Fedora 23 to have python 3. Ubuntu is moving to python 3.
+
+What is a loop?
+
+Bradely Kuhn
+------------
+
+Copy left is a strategy, not a principal unto itself. Co-optio is
+where a larger group assimilates a smaller group with less power or
+weakness in the
+environment. IT is a legal/social term. Astroturfing is false
+grassroots movements, masking people’s grassroots voices and
+redirecting the
+‘hearsay’ and rumour into something that serves a powerful
+corporation.
+
+Principals of community enforcement
+
+Giving up on the GPL: Twin Peaks and Red Hat - RH tried GPL
+violations as a defence.
+
+Lawyer work is dangerous profession for non-lawyers. For legal
+departments, if you are not paying them yourselves, than they may not
+be your lawyer.
+“I know of two venues for Lawyers to meet…’how can we make this
+copy left stuff less of a problem for us?’ “
+“How do we encourage more company copyrights in GPL software?” A
+strategy for limiting creator copyright holdings in GPL work.
+
+A robotics talk
+---------------
+
+Security and Secretd
+--------------------
+
+The problem the are looking at is can code be secret? Yes, and
+propriety software is an example. Most
+problems tie back into the Key usage for stores, which end up being
+complex and insecure. Updates and
+manual working can also create blockers.
+
+A new security tool
+~~~~~~~~~~~~~~~~~~~
+
+A new security solution supports bootstrapping and re-bootstrapping.
+Secret D architecture recruits a client, which
+connected through SSH to the Server. A secret-shell then interacts with
+secrets. This connects with a TCP-UNix socket to
+postgres. The database structure is more simple. Principals, attach to
+groups. Groups to cal, and the secrets attack to an
+acl_types (something). So what do these boxes represent ?
+
+User can add other UI’s over the Unix sockets, like a web UI. This has
+not been written yet.
+
+
+
+
+
+
+
+
+
+
+
+
