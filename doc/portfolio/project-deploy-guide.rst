@@ -1,7 +1,7 @@
 Writing Sample 
 ==============
 
-Original Content available on the `OpenStack Documentation website<https://docs.openstack.org/doc-contrib-guide/project-deploy-guide.html>`_.
+Original Content available on the `OpenStack Documentation website <https://docs.openstack.org/doc-contrib-guide/project-deploy-guide.html>`_.
 
 
 *The following content is preceded by another procedure. See the above link to explore the complete background*
