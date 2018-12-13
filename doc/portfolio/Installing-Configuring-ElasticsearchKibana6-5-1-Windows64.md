@@ -1,14 +1,14 @@
 # Kibana Quick Start Guide
 
-This quick start guide is an opinionated process for installing and running
-a local Elasticsearch node on with a Kibana dashboard. This allows you to explore the
-core functionality of Elasticsearch and Kibana.
+This is an opinionated quickstart guide for installing and running
+a local Elasticsearch node with a Kibana dashboard on Windows. This allows you to explore the
+core functionality of Elasticsearch and Kibana on a local device.
 
 ## Prerequisites
 
-**Elasticsearch and Kibana are designed for large scale, enterprise search and visual analysis. While
+**Elasticsearch and Kibana are designed for large scale, enterprise search combined with visual analysis. While
 an Elasticsearch local node can run on most computers of average memory, disk size, and processing speed,
-any production deployment requires more resources.**  
+any production deployment requires more resources, and more planning and architecture.**  
 
 ### Hardware
 
@@ -29,7 +29,7 @@ any production deployment requires more resources.**
 
 1. Navigate to the [Elasticsearch downloads](https://www.elastic.co/downloads/elasticsearch) page.
 
-2. Select the version of Elasticsearch for the Windows Operation System - the ``.zip`` format file.
+2. Select the version of Elasticsearch for the Windows Operation System (the ``.zip`` format file).
 
 **The only supported package for the Windows Operating System is the ``.zip`` format.**
 
@@ -37,14 +37,14 @@ any production deployment requires more resources.**
 
 ## Configure Elasticsearch
 
-1. Navigate into the ``.\elasticsearch-6.5.1\`` directory through the Windows Graphic User Interface(GUI) or
+1. Navigate into the ``.\elasticsearch-6.5.1\`` directory through the Windows Graphic User Interface (GUI) or
 through Command Prompt.
 
 2. Access the ``\config`` directory.
 
 3. Access the jvm.options file
 
-4. Confirm that the JVM head size is set to the following:
+4. Confirm that the JVM heap size is set to the following:
 
 ```
 -Xms1g
@@ -73,7 +73,7 @@ It is important to confirm the JVM heap sizes match, and are the right size for 
 
 2. Navigate to the [Kibana downloads](https://www.elastic.co/downloads/kibana) page.
 
-3. Select the version of Kibana for the Windows Operation System.
+3. Select the version of Kibana for the Windows Operation System (the ``.zip`` format).
 
 **The only supported package for the Windows Operating System is the ``.zip`` format.**
 
@@ -81,18 +81,17 @@ It is important to confirm the JVM heap sizes match, and are the right size for 
 
 ## Configure Kibana
 
-1. Once the file has finished downloading, unzip the ``.zip`` file in the directory required for your
-Kibana to connect to the Elasticsearch node.
+1. Once the file has finished downloading, unzip the ``.zip`` file in the target directory.
 
 **The Zip file make take 10 to 20 minutes to extract all the available files**
 
-2. Navigate to the Kibana/config file
+2. Navigate to the Kibana/config file.
 
-3. Adjust the ``.yml`` file depending on your needs
+3. Adjust the ``.yml`` file depending on your needs. You can change the behaviour of the Kibana dashboard through the ``.yml`` file.
 
 ## Install and start Kibana
 
-1. Open the Windows Command Prompt
+1. Open the Windows Command Prompt.
 
   a. Navigate to the Windows Cortana Search bar
   b. Type ``cmd``
@@ -142,7 +141,4 @@ for /F "usebackq delims=" %%a in (`"!JAVA! -cp "!ES_CLASSPATH!"
 ```
 
 4. Save the file, and restart Elasticsearch.
-
-
-
 
