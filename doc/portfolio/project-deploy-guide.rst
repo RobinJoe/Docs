@@ -4,9 +4,7 @@ Writing Sample
 Original Content available on the `OpenStack Documentation website <https://docs.openstack.org/doc-contrib-guide/project-deploy-guide.html>`_.
 
 
-*The following content is preceded by another procedure. See the above link to explore the complete background*
-
-*In summary, The procedure involves configuring and deploying a specific deployment guide for each project.* 
+*The following content is preceded by another procedure. See the above link to explore the complete background. In summary, The procedure involves configuring and deploying a specific deployment guide for each project.* 
 
 After these changes merge, you can set up the jobs for building in the
 OpenStack Infra ``project-config`` repository:
