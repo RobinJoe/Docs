@@ -1,7 +1,7 @@
 Manage projects and users
 =========================
 
-Publically available on the `OpenStack Horizon documentation page <https://docs.openstack.org/horizon/latest/admin/manage-projects-and-users.html>`_.
+Publicly available on the `OpenStack Horizon documentation page <https://docs.openstack.org/horizon/latest/admin/manage-projects-and-users.html>`_.
 
 OpenStack administrators can create projects, and create accounts for new users
 using the OpenStack Dasboard. Projects own specific resources in your
