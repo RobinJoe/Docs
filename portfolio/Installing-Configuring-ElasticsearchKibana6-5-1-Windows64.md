@@ -1,4 +1,4 @@
-# Kibana Quick Start Guide
+# Elastic and Kibana Quick Start Guide
 
 This is an opinionated quickstart guide for installing and running
 a local Elasticsearch node with a Kibana dashboard on Windows. This allows you to explore the
